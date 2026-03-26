@@ -61,7 +61,6 @@ These permissions are used solely for the app's core functionality.
 ## Internet permission
 The Internet permission is used for:
 - Displaying advertisements (Lite version only)
-- Checking for app updates
 - Sending bug reports (when initiated by the user)
 
 ## Children's privacy
