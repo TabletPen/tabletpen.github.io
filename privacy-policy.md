@@ -52,7 +52,7 @@ Bug reports are **only sent when you explicitly tap Send**. No data is transmitt
 - Bug reports are stored on our server for debugging purposes and deleted after resolution
 
 ## Bluetooth permissions
-TabletPen requires Bluetooth permissions to function as a wireless HID input device. Specifically:
+TabletPen requires Bluetooth permissions to function as a wireless drawing tablet. Specifically:
 - **BLUETOOTH_CONNECT** — to connect to your laptop/desktop as a drawing tablet
 - **BLUETOOTH_ADVERTISE** — to make the tablet discoverable for initial pairing
 
