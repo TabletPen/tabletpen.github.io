@@ -18,7 +18,7 @@ TabletPen turns your Android tablet into a wireless Bluetooth drawing tablet. We
 - **App settings** — input mode, pressure curve, orientation preferences
 - **Diagnostic logs** — recent app events stored temporarily in memory for bug reporting (not persisted to disk)
 
-### Data collected by third-party services (Basic version only)
+### Data collected by third-party services (Lite version only)
 The free version of TabletPen includes Google AdMob for advertising. AdMob may collect:
 - Advertising ID
 - Device information (model, OS version)
@@ -60,7 +60,7 @@ These permissions are used solely for the app's core functionality.
 
 ## Internet permission
 The Internet permission is used for:
-- Displaying advertisements (Basic version only)
+- Displaying advertisements (Lite version only)
 - Checking for app updates
 - Sending bug reports (when initiated by the user)
 
