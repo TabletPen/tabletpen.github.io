@@ -5,7 +5,7 @@ title: Privacy Policy - TabletPen
 
 # TabletPen Privacy Policy
 
-**Last updated:** March 26, 2026
+**Last updated:** April 4, 2026
 
 ## Overview
 
@@ -30,13 +30,13 @@ For details, see [Google's Privacy Policy](https://policies.google.com/privacy).
 The Pro version contains no advertising SDKs and collects no third-party data.
 
 ### Bug reports (voluntary)
-When you tap "Report Issue" in Settings, the following is sent to our server:
+When you tap "Report Issue" in Settings, a GitHub Issue is created containing:
 - Your description of the issue
 - Device model and Android version
 - App version
 - Recent diagnostic log (Bluetooth connection events, errors)
 
-Bug reports are **only sent when you explicitly tap Send**. No data is transmitted automatically.
+Bug reports are **only sent when you explicitly tap Send**. No data is transmitted automatically. Reports are publicly visible at [github.com/TabletPen/tabletpen.github.io/issues](https://github.com/TabletPen/tabletpen.github.io/issues).
 
 ## Data NOT collected
 - No personal information (name, email, phone number)
@@ -48,8 +48,7 @@ Bug reports are **only sent when you explicitly tap Send**. No data is transmitt
 
 ## Data storage
 - All app settings are stored locally on your device using Android SharedPreferences
-- No user data is stored on remote servers (except voluntarily submitted bug reports)
-- Bug reports are stored on our server for debugging purposes and deleted after resolution
+- No user data is stored on remote servers (except voluntarily submitted bug reports via GitHub Issues)
 
 ## Bluetooth permissions
 TabletPen requires Bluetooth permissions to function as a wireless drawing tablet. Specifically:
@@ -61,7 +60,7 @@ These permissions are used solely for the app's core functionality.
 ## Internet permission
 The Internet permission is used for:
 - Displaying advertisements (Lite version only)
-- Sending bug reports (when initiated by the user)
+- Sending bug reports to GitHub (when initiated by the user)
 
 ## Children's privacy
 TabletPen is not directed at children under 13. We do not knowingly collect data from children.
@@ -71,4 +70,5 @@ We may update this privacy policy from time to time. Changes will be posted on t
 
 ## Contact
 If you have questions about this privacy policy, please contact us at:
-[https://github.com/TabletPen/tabletpen.github.io/issues](https://github.com/TabletPen/tabletpen.github.io/issues)
+- Email: [feedback@tabletpen.app](mailto:feedback@tabletpen.app)
+- GitHub: [github.com/TabletPen/tabletpen.github.io/issues](https://github.com/TabletPen/tabletpen.github.io/issues)
