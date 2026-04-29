@@ -3,3 +3,4 @@ description: Turn your Android tablet into a wireless Bluetooth drawing tablet
 theme: jekyll-theme-minimal
 include:
   - app-ads.txt
+  - robots.txt
